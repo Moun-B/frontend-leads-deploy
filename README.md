@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Sidenote : Backend repository is there : https://github.com/Moun-B/backend-deploy-leads/tree/master
+
+Used FastAPI framework for the backend API and React for the frontend.
+
 ## Available Scripts
 
 In the project directory, you can run:
